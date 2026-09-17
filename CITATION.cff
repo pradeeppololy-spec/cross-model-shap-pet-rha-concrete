@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Cross-Model SHAP Analysis of PET-RHA Concrete"
+message: "If you use the data or code in this repository, please cite the associated research article and this repository."
+type: software
+authors:
+  - family-names: "Kumar"
+    given-names: "Pololy Pradeep"
+repository-code: "https://github.com/pradeeppololy-spec/cross-model-shap-pet-rha-concrete"
+license: "MIT"
