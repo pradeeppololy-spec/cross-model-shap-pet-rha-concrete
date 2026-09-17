@@ -1,0 +1,15 @@
+Variable,Description,Unit,Role
+Mix_ID,Experimental mix identification code,None,Identifier
+Cement_kg_m3,Cement content,kg/m3,Input
+PET_kg_m3,Polyethylene terephthalate content,kg/m3,Input
+FA_kg_m3,Fine aggregate content,kg/m3,Input
+RHA_kg_m3,Rice husk ash content,kg/m3,Input
+CA_kg_m3,Coarse aggregate content,kg/m3,Input
+Water_kg_m3,Water content,kg/m3,Input
+SP_kg_m3,Superplasticizer content,kg/m3,Input
+CS_MPa,Compressive strength,MPa,Experimental property
+STS_MPa,Splitting tensile strength,MPa,ML target
+FS_MPa,Flexural strength,MPa,ML target
+WA_percent,Water absorption,%,ML target
+MoE_GPa,Modulus of elasticity,GPa,ML target
+RCPT_Coulombs,Rapid chloride permeability test result,Coulombs,ML target
